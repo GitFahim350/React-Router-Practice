@@ -1,0 +1,12 @@
+.fullcountry_info{
+    width: 100%;
+    display: flex;
+    background-color: rgb(212, 224, 224);
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.fullcountry_info img{
+    width: 400px;
+    height: 200px;
+}
